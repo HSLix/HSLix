@@ -25,9 +25,6 @@
 ### Visit Count
 ![Visitor Count](https://profile-counter.glitch.me/hslix/count.svg) 
 
-
-![LuYaoQi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hslix&bg_color=93e1fb&color=0a23e6&line=ffffff&point=403d3d&area=true&hide_border=true)
-
 ---
 
 <!-- Its main projects -->
