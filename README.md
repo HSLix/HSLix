@@ -25,13 +25,4 @@
 ### Visit Count
 ![Visitor Count](https://profile-counter.glitch.me/hslix/count.svg) 
 
----
-
-<!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/hslix/lixassistantlimbuscompany">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hslix&repo=lixassistantlimbuscompany" />
-  </a>
-</p>
-
 ⭐️ From [LuYaoQi](https://github.com/hslix)
