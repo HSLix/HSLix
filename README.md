@@ -17,7 +17,7 @@
 </a>
   
 - 👨🏽‍💻 I’m currently studying in **Jilin University**;
-- 🌱 I’m currently learning **Machine Learning** and CPP; 
+- 🌱 I’m currently learning **Machine Learning** and Python/Go; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a strong interest in **Anime**;
 - 📫 How to reach me: l0123i456@163.com;
