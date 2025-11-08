@@ -3,7 +3,7 @@
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/hslix)
-[![Bilibili](https://img.shields.io/badge/-Bilibili-blue?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/384632772)
+[![BiliBili](https://img.shields.io/badge/-Bilibili-blue?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/384632772)
 [![Email](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=mailboxdotorg&logoColor=white)](l0123i456@163.com)
 
 &nbsp;
@@ -22,7 +22,5 @@
 - ⚡️ Fun-Fact: I have a strong interest in **Anime**;
 - 📫 How to reach me: l0123i456@163.com;
 
-### Visit Count
-![Visitor Count](https://profile-counter.glitch.me/hslix/count.svg) 
 
 ⭐️ From [LuYaoQi](https://github.com/hslix)
